@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">greenGarden2</string>
+    <string name="title_name">greenGARDEN</string>
+    <string name="title_ingreso">Ingresa con:</string>
+    <string name="title_ingreso_modo">Nombre, Correo o Celular</string>
+    <string name="title_password">Contraseña:</string>
+    <string name="title_change_password">Ingresa tu contraseña</string>
+    <string name="title_intro">Ingresar</string>
+    <string name="title_without">¿No tienes usuario?</string>
+    <string name="title_here">aqui</string>
+    <string name="title_oldPass">¿Olvidaste tu contraseña?</string>
+    <string name="title_recovery">¿Recuperala aquí?</string>
+    <string name="title_exit">Salir</string>
+    <string name="title_register">Registrarme</string>
+    <string name="title_closed_sesion">Cerrar la sesión</string>
+</resources>
